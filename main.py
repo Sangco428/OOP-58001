@@ -2,7 +2,7 @@ from tkinter import *
 from tkinter import ttk
 window = Tk()
 
-window.geometry("300x200+10+20")
+window.geometry("500x300+10+20")
 window.title("Welcome to Python Programming")
 
 button=Button(window,text = "Button", fg = "red", font = ("Helvetica", 16))
